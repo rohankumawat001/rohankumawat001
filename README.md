@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 😁 They are many project i created but not all for github
 
 ### Languages and Tools:
 

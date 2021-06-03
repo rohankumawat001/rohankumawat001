@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Working hard for my organization
 - 😁 They are many project i created but not all for github
 
 ### Languages and Tools:
